@@ -23,3 +23,5 @@
     ![alt text](https://github.com/AmandaWillrich/django_project/blob/main/django_project/images/Posts%20By.png)
 
     ![alt text](https://github.com/AmandaWillrich/django_project/blob/main/django_project/images/Post.png)
+
+    ![alt text](https://github.com/AmandaWillrich/django_project/blob/main/django_project/images/Post%20Edit.png)
