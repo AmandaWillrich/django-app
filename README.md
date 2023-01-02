@@ -2,11 +2,11 @@
 
 - Project exclusively made for learning purposes (PBL - Project-based learning)
 
-  - A simple blog with a home dashboard that shows the posts of all users:
+  - A simple blog with a home dashboard that shows the posts of all users. It is paginated, so you can navigate through all the posts made, including going to the last page or coming back to the first one:
 
   ![alt text](https://github.com/AmandaWillrich/django_project/blob/main/django_project/images/blog.png)
 
-  - It is possible to register a new user that has the ability of creating new posts, as long as you meet all the form validations requirements;
+  - When clicking in "Register", it is possible to register a new user that has the ability of creating new posts, as long as you meet all the form validations requirements:
 
   ![alt text](https://github.com/AmandaWillrich/django_project/blob/main/django_project/images/Register.png)
 
