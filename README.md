@@ -6,9 +6,9 @@
 
   ![alt text](https://github.com/AmandaWillrich/django_project/blob/main/django_project/images/blog.png)
 
-  - It is possible to register a new user, as long as you meet all the form validations requirements;
+  - It is possible to register a new user that has the ability of creating new posts, as long as you meet all the form validations requirements;
 
-  ![alt text](https://github.com/AmandaWillrich/django_project/blob/main/django_project/images/Login.png)
+  ![alt text](https://github.com/AmandaWillrich/django_project/blob/main/django_project/images/Register.png)
 
   - After you created a username, you also get a profile that is created simultaneously;
 
@@ -19,5 +19,7 @@
     - You can always login and logout of your account, clicking on the corresponding menu options;
 
     - After you logged in, it is possible to create, edit and delete posts.
+
+    ![alt text](https://github.com/AmandaWillrich/django_project/blob/main/django_project/images/Posts%20By.png)
 
     ![alt text](https://github.com/AmandaWillrich/django_project/blob/main/django_project/images/Post.png)
